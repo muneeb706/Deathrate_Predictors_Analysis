@@ -21,3 +21,12 @@ death -- age-adjusted deaths per 100,000 population
 
 This analysis investigates the relationship between three demographic variables and the death rate. Only above mentioned 4 variables in the dataset section
 have been used for this analysis.
+
+
+JAGS library has been used to fit several Bayesian models --  simple  models using one predictor variable at a time, and models with 2 predictors and then all 3 predictors.  
+
+Performance of these models were compared using Bayesian criterion (Deviance information criterion and Posterior predictive checking) to choose the best one.
+
+Detailed analysis can be found at [analysis](https://github.com/muneeb706/Deathrate_Predictors_Analysis/blob/main/analysis.pdf).
+
+R-script used for analysis can be found at [r-script](https://github.com/muneeb706/Deathrate_Predictors_Analysis/blob/main/deathrate-predictors-analysis.R).
