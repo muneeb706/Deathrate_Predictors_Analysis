@@ -1,4 +1,4 @@
-# Deathrate Predictors Analysis
+# Death Rate Predictors Analysis
 Relationship investigation between demographic variables and death rate using R.
 
 
